@@ -53,6 +53,7 @@ M4ネジとナットが別途必要です。
 使い方は同じです  
 ![](README/2025-11-27-20-11-06.png)  
 
+動画だとこんな感じです↓  
 https://www.youtube.com/shorts/NISom2DpsN0
 
 ## STLデータの簡単な説明  
