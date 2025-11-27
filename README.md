@@ -73,7 +73,8 @@ https://www.youtube.com/shorts/NISom2DpsN0
 ![](README/2025-11-27-19-59-42.png)
 
 ## 3mfデータの簡単な説明  
-BambuStudioで開くとこんな感じです。
+BambuStudioで開くとこんな感じです。  
+ご自身の3Dプリンタの設定にしてくださいね。  
 ![](README/2025-11-27-19-52-51.png)
 
 ## 参考情報：使用している椅子とモニターアーム(構成例)
